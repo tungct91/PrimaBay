@@ -1,0 +1,6 @@
+{
+  "name": "Prima Bay Hạ Long",
+  "description": "Ứng dụng giới thiệu dự án Prima Bay Hạ Long - Căn hộ nghỉ dưỡng hạng sang bên Vịnh Di Sản với hệ thống điều hướng, mặt bằng 2D/3D, tính giá & khoản vay, thư viện ảnh và đăng ký tham quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
